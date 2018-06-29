@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margine_110dp">110dp</dimen>
+    <dimen name="margine_40dp">40dp</dimen>
+    <dimen name="margine_15dp">15dp</dimen>
+    <dimen name="margine_200dp">200dp</dimen>
+    <dimen name="card_height">150dp</dimen>
+    <dimen name="margine_300dp">300dp</dimen>
+</resources>
